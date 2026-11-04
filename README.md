@@ -1,26 +1,32 @@
-APS - Qualidade de Software
+# APS – Qualidade de Software
 
-Universidade Paulista (UNIP)
-Curso: Sistemas de Informação
-Tema: Qualidade de Software
-Projeto analisado: Plataforma EcoRoute
+**Universidade Paulista – UNIP**  
+**Curso:** Sistemas de Informação  
+**Trabalho:** Qualidade de Software  
+**Sistema analisado:** EcoRoute
 
-1. Sobre o trabalho
+## Apresentação do projeto
 
-Este repositório contém os materiais desenvolvidos para a Atividade Prática Supervisionada (APS) da disciplina de Qualidade de Software, aplicada à plataforma EcoRoute.
+Este repositório reúne os materiais desenvolvidos para a APS da disciplina de Qualidade de Software. O trabalho tem como base a plataforma EcoRoute, projeto voltado ao gerenciamento de resíduos urbanos e à solicitação de coletas.
 
-O trabalho apresenta uma avaliação das características de qualidade do software, utilizando modelos e conceitos das normas ISO/IEC 9126 e ISO/IEC 14598.
+Ao longo da atividade, foram analisados aspectos relacionados à qualidade do sistema, considerando suas funcionalidades, características de funcionamento e critérios de avaliação, com apoio dos modelos ISO/IEC 9126 e ISO/IEC 14598.
 
-2. Integrantes
+## Integrantes
 
 Diego Alexandrino Morais
 
 João Pedro Silva Cruz
 
-3. Documentos
+## Arquivos do trabalho
 
-Relatório da APS - Qualidade de Software
+[Relatório da APS – Qualidade de Software (PDF)](https://github.com/diegomorais0/aps-qualidade-de-software/blob/main/APS%20-%20Qualidade%20de%20Software.pdf)
 
-4. Apresentação em vídeo
+## Apresentação
 
-Assistir à apresentação da APS no Google Drive
+O vídeo abaixo contém a apresentação do trabalho realizado pela equipe.
+
+[CLIQUE AQUI PARA ASSISTIR À APRESENTAÇÃO](https://drive.google.com/file/d/1nwK5wAC-WFDPUWEA3zHPVstYaCKb2rga/view?usp=sharing)
+
+---
+
+**UNIP – Universidade Paulista | 2026**
