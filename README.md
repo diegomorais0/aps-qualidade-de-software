@@ -25,7 +25,7 @@ João Pedro Silva Cruz
 
 O vídeo abaixo contém a apresentação do trabalho realizado pela equipe.
 
-[CLIQUE AQUI PARA ASSISTIR À APRESENTAÇÃO](https://drive.google.com/file/d/1nwK5wAC-WFDPUWEA3zHPVstYaCKb2rga/view?usp=sharing)
+[CLIQUE AQUI PARA ASSISTIR À APRESENTAÇÃO]([https://drive.google.com/file/d/1nwK5wAC-WFDPUWEA3zHPVstYaCKb2rga/view?usp=sharing](https://drive.google.com/file/d/1S1kA-IK1nER9HfeVF7udLWhpSCtZuFwS/view?usp=sharing))
 
 ---
 
